@@ -15,9 +15,7 @@ rpcUrl=
 privateKey=
 ```
 
-## Instruction
-
----
+## Instructions
 
 ### First clone this repository.
 
